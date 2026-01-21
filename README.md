@@ -5,9 +5,6 @@
   <br>
   <br>
   <br>
-  <img src="https://profile-counter.glitch.me/marcuth/count.svg" alt="visitor count">
-  <br>
-  <br>
   <div id="badges">
 </div>
 </div>
