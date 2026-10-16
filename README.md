@@ -105,6 +105,6 @@ I am a passionate **Full Stack Software Dev** and **Indie Hacker** with deep exp
 Whether you're looking to hire a senior full-stack developer, collaborate on open-source initiatives, or build automated data solutions, feel free to reach out:
 
 - 🌐 **Portfolio & Blog:** [marcuth.dev](https://marcuth.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/marcuth](https://www.linkedin.com/in/marcuth)
+- 💼 **LinkedIn:** [linkedin.com/in/thiagomarquesc/](https://www.linkedin.com/in/thiagomarquesc/)
 - ✉️ **Direct Email:** [contato@marcuth.dev](mailto:contato@marcuth.dev)
 - 💬 **Discord:** [Join Community](https://discord.gg/k5UmyAMcft)
