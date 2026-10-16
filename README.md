@@ -1,69 +1,110 @@
-<h1 align="center">Hi 👋, I'm Marcuth</h1>
-<h3 align="center">FullStack Developer & Indie Hacker</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Xcrap](https://github.com/xcrap-dev)
+# Hi there, I'm Marcuth 👋
+### **Full Stack Software Engineer & Systems Builder**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcuth&theme=github_dark" width="400"/>
+[![Website](https://img.shields.io/badge/Portfolio-marcuth.dev-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcuth.dev)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@marcuth.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuth)
+[![YouTube](https://img.shields.io/badge/YouTube-marcuthdev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/marcuthdev)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k5UmyAMcft)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/marcuth.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcuth.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/marcuthdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marcuthdev" height="30" width="40" /></a>
-<a href="https://discord.gg/k5UmyAMcft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k5UmyAMcft" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```typescript
+const engineer = {
+  name: "Marcuth",
+  role: "Full Stack Engineer & Open Source Creator",
+  location: "Minas Gerais, Brazil",
+  availability: "Open to full-time roles & high-impact projects",
+  coreFocus: ["Scalable Web Systems", "High-Performance Automation & Scraping", "Developer Tooling"]
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcuth&show_icons=true&locale=en" alt="marcuth" /></p>
+</div>
 
-<!--
+---
 
-## Stats
+### 👨‍💻 About Me
+
+I am a passionate **Full Stack Software Engineer** and **Indie Hacker** with deep expertise in the **TypeScript & Node.js** ecosystem, **Python**, and modern reactive frontend architectures.
+
+- 🚀 **System Architect & Tool Builder:** Creator and lead maintainer of **[Xcrap](https://github.com/xcrap-dev)**, a modular web scraping and declarative data parsing framework composed of 10+ published packages.
+- ⚙️ **End-to-End Delivery:** Skilled across the entire development lifecycle, from high-throughput backend services (NestJS, Express, PostgreSQL, Redis) to slick, responsive user interfaces (React, Next.js, Tailwind CSS) and desktop applications (Electron).
+- 💡 **Problem Solver:** Specialized in complex data pipelines, programmatic media generation (Canvas, FFmpeg), API integrations, and reverse engineering.
+- 🟢 **Status:** Available for opportunities where I can contribute to mission-critical systems and build impactful software.
+
+---
+
+### ⭐ Featured Projects & Systems
+
+| Project | Key Technologies | Description |
+| :--- | :--- | :--- |
+| **[Xcrap Framework](https://github.com/xcrap-dev)** | `TypeScript`, `Node.js`, `Puppeteer`, `TLS` | Modular, declarative web scraping ecosystem featuring custom HTTP clients, anti-bot evasion, dynamic factories, and data transformation layers. |
+| **[`xpict`](https://www.npmjs.com/package/xpict)** | `Node.js`, `@napi-rs/canvas`, `Rust` | High-speed declarative image generation engine utilizing hardware-accelerated Canvas for automated banners and graphics. |
+| **[`@marcuth/movie.js`](https://www.npmjs.com/package/@marcuth/movie.js)** | `TypeScript`, `FFmpeg`, `Media Pipelines` | Declarative video composition and rendering engine that sequences dynamic audio, video, and image layers programmatically. |
+| **[`afilimax`](https://www.npmjs.com/package/afilimax)** | `TypeScript`, `Web Automation`, `REST APIs` | Unified integration SDK combining API and headless browser strategies across major e-commerce affiliate networks. |
+
+> 📦 **Looking for the complete library index?**  
+> Browse 30+ published npm packages, Python libraries, and tools in **[PROJECTS.md](PROJECTS.md)**.
+
+---
+
+### 🛠️ Technical Stack & Tooling
+
+<div align="left">
+
+#### **Languages & Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white)
+
+#### **Backend & Cloud Architecture**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### **Frontend & UI Engineering**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+#### **Scraping, Media & Automation**
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=marcuth&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuth&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,scss,html,ejs">
-   <img src ="https://github-readme-streak-stats.herokuapp.com?user=marcuth&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <br>
-  <div id="badges">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcuth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marcuth's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=tex,jupyter%20notebook" alt="Top Languages" height="165" />
 </div>
 
--->
+---
 
-## My packages 📦
+### 📬 Get In Touch
 
-| Name | URL | Description |
-| -----| --- | ----------- |
-| xpict | https://www.npmjs.com/package/xpict | A library for generating standardized images from declarative templates based on `@napi-rs/canvas` | 
-| @marcuth/movie.js | https://www.npmjs.com/package/@marcuth/movie.js | A library for generating standardized videos from declarative models based on `fluent-ffmpeg` |
-| @marcuth/jpexs-decompiler | https://www.npmjs.com/package/@marcuth/jpexs-decompiler | A fork of [jpexs-flash-decompiler](https://www.npmjs.com/package/jpexs-flash-decompiler) rewritten in TypeScript and modern Node.js |
-| @marcuth/mediafire | https://www.npmjs.com/package/@marcuth/mediafire | A simple library for performing operations on the Mediafire API |
-| adlinkfly | https://www.npmjs.com/package/adlinkfly | A wrapper library for communicating with URL shortener APIs based on the AdLinkFly script |
-| encurtanet | https://www.npmjs.com/package/encurtanet | A wrapper library for communicating with the EncurtaNet API |
-| @marcuth/dds-to-png | https://www.npmjs.com/package/@marcuth/dds-to-png | A simple converter for DDS texture files to PNG images |
-| afilimax | https://www.npmjs.com/package/afilimax | A library encompassing the main Brazilian marketplaces with affiliate programs, combining API strategies with web automation |
-| bigjpg | https://www.npmjs.com/package/bigjpg | A library for enhancing images using the https://bigjpg.com API |
-| @xcrap/core | https://www.npmjs.com/package/@xcrap/core | Base library for the Xcrap web scraping framework with a basic client using Node.js Core |
-| @xcrap/parser | https://www.npmjs.com/package/@xcrap/parser | A package of the Xcrap framework, it was developed to take care of the data extraction part of text files (currently supporting only HTML, Markdown and JSON) using declarative models. |
-| @xcrap/axios-client | https://www.npmjs.com/package/@xcrap/axios-client | A package of the Xcrap framework that implements an HTTP client using the Axios library. |
-| @xcrap/puppeteer-client | https://www.npmjs.com/package/@xcrap/puppeteer-client | A package of the Xcrap framework that implements an HTTP client using the Puppeteer library. |
-| @xcrap/got-scraping-client | https://www.npmjs.com/package/@xcrap/got-scraping-client | A package of the Xcrap framework that implements an HTTP client using the Got Scraping library. |
-| @xcrap/puppeteer-extra-client | https://www.npmjs.com/package/@xcrap/puppeteer-extra-client | A package of the Xcrap framework that implements an HTTP client using the Puppeteer Extra library. |
-| @xcrap/image-text-extractor | https://www.npmjs.com/package/@xcrap/image-text-extractor | A package of the Xcrap framework that abstracts the extraction of texts from images using the node-tesseract-ocr library. |
-| @xcrap/factory | https://www.npmjs.com/package/@xcrap/factory | A set of utilities for dynamically creating instances of clients, extractors, and parsing models, making it easier to configure and extend scraping and parsing pipelines. |
-| @xcrap/transformer | https://www.npmjs.com/package/@xcrap/transformer | It is the data transformation package for data extracted from the Xcrap web scraping framework |
-| @xcrap/puppeteer-real-browser-client | https://www.npmjs.com/package/@xcrap/puppeteer-real-browser-client |Is an Xcrap framework package that implements an HTTP client using the Puppeteer Real Browser library |
-| @xcrap/api | https://www.npmjs.com/package/@xcrap/api | Is a package for the Xcrap Cloud service, designed for communicating with the API and handling authentication, management, and execution of scrapers and clients. |
-| @xcrap/impit-client | https://www.npmjs.com/package/@xcrap/impit-client | Is a package within the Xcrap framework that implements an HTTP client using the Impit library. |
-| @xcrap/decryptor | https://www.npmjs.com/package/@xcrap/decryptor | This is the web scraping framework package for handling the decryption of the `body` content of requests |
-| @xcrap/dom | https://www.npmjs.com/package/@xcrap/dom | Xcrap DOM is a package from the Xcrap framework, designed to handle DOM data extraction (client-side) using declarative models. It is perfect for use in web scraping extensions and TamperMonkey user scripts. |
-| @dchighs/dc-core | https://www.npmjs.com/package/@dchighs/dc-core | A collection of settings, static data, and calculation functions related to Dragon City |
-| @dchighs/dc-assets | https://www.npmjs.com/package/@dchighs/dc-assets | A library for downloading static files related to Dragon City |
-| @dchighs/dc-localization | https://www.npmjs.com/package/@dchighs/dc-localization | A library for downloading, searching, and comparing data about Dragon City localization |
-| @dchighs/dc-config | https://www.npmjs.com/package/@dchighs/dc-config | A library for retrieving game configuration data |
-| @dchighs/dc-config-mapper | https://www.npmjs.com/package/@dchighs/dc-config-mapper | A library designed to restructure and populate specific parts of the configuration to make them ready for use |
-| dragon-city-utils | https://pypi.org/project/dragon-city-utils/ | Dragon City Utils, a collection of tools and utilities for managing static assets and performing calculations related to the Dragon City game. |
+Whether you're looking to hire a senior full-stack developer, collaborate on open-source initiatives, or build automated data solutions, feel free to reach out:
+
+- 🌐 **Portfolio & Blog:** [marcuth.dev](https://marcuth.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/marcuth](https://www.linkedin.com/in/marcuth)
+- ✉️ **Direct Email:** [contato@marcuth.dev](mailto:contato@marcuth.dev)
+- 💬 **Discord:** [Join Community](https://discord.gg/k5UmyAMcft)
