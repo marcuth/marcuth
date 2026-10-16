@@ -27,7 +27,7 @@ const engineer = {
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full Stack Software Engineer** and **Indie Hacker** with deep expertise in the **TypeScript & Node.js** ecosystem, **Python**, and modern reactive frontend architectures.
+I am a passionate **Full Stack Software Dev** and **Indie Hacker** with deep expertise in the **TypeScript & Node.js** ecosystem, **Python**, and modern reactive frontend architectures.
 
 - 🚀 **System Architect & Tool Builder:** Creator and lead maintainer of **[Xcrap](https://github.com/xcrap-dev)**, a modular web scraping and declarative data parsing framework composed of 10+ published packages.
 - ⚙️ **End-to-End Delivery:** Skilled across the entire development lifecycle, from high-throughput backend services (NestJS, Express, PostgreSQL, Redis) to slick, responsive user interfaces (React, Next.js, Tailwind CSS) and desktop applications (Electron).
