@@ -97,8 +97,8 @@ I am a passionate **Full Stack Software Dev** and **Indie Hacker** with deep exp
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcuth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marcuth's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=tex,jupyter%20notebook" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=marcuth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marcuth's GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marcuth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=tex,jupyter%20notebook" alt="Top Languages" height="165" />
 </div>
 
 ---
